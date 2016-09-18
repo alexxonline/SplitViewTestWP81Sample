@@ -7,8 +7,8 @@
     <ProjectGuid>{FD79A819-C6D3-4107-BD7C-23968E09E1EA}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SplitViewTest</RootNamespace>
-    <AssemblyName>SplitViewTest</AssemblyName>
+    <RootNamespace>SplitViewSample</RootNamespace>
+    <AssemblyName>SplitViewSample</AssemblyName>
     <DefaultLanguage>es-ES</DefaultLanguage>
     <TargetPlatformVersion>8.1</TargetPlatformVersion>
     <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>

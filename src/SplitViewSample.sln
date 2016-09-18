@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitViewTest", "SplitViewTest\SplitViewTest.csproj", "{FD79A819-C6D3-4107-BD7C-23968E09E1EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitViewSample", "SplitViewSample\SplitViewSample.csproj", "{FD79A819-C6D3-4107-BD7C-23968E09E1EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Universal.UI.Xaml.Controls", "Universal.UI.Xaml.Controls\Universal.UI.Xaml.Controls.csproj", "{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}"
 EndProject
