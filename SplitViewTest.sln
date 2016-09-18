@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitViewTest", "SplitViewTest\SplitViewTest.csproj", "{FD79A819-C6D3-4107-BD7C-23968E09E1EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Universal.UI.Xaml.Controls", "Universal.UI.Xaml.Controls\Universal.UI.Xaml.Controls.csproj", "{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Debug|ARM.Build.0 = Debug|ARM
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Debug|ARM.Deploy.0 = Debug|ARM
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Debug|x86.ActiveCfg = Debug|x86
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Debug|x86.Build.0 = Debug|x86
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Debug|x86.Deploy.0 = Debug|x86
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Release|ARM.ActiveCfg = Release|ARM
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Release|ARM.Build.0 = Release|ARM
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Release|ARM.Deploy.0 = Release|ARM
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Release|x86.ActiveCfg = Release|x86
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Release|x86.Build.0 = Release|x86
+		{FD79A819-C6D3-4107-BD7C-23968E09E1EA}.Release|x86.Deploy.0 = Release|x86
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Debug|ARM.Build.0 = Debug|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Debug|x86.Build.0 = Debug|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Release|ARM.ActiveCfg = Release|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Release|ARM.Build.0 = Release|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Release|x86.ActiveCfg = Release|Any CPU
+		{AD458C94-DA3A-4940-BC31-A370AA0ADB5E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
