@@ -5,6 +5,6 @@ https://github.com/FrayxRulez/SplitView
 
 Features: 
 1. Light Theme
-1. Open and close the pane
+2. Open and close the pane
 
 
