@@ -18,7 +18,7 @@ using Windows.UI.Xaml.Navigation;
 
 // La plantilla Aplicación vacía está documentada en http://go.microsoft.com/fwlink/?LinkId=391641
 
-namespace SplitViewTest
+namespace SplitViewSample
 {
     /// <summary>
     /// Proporciona un comportamiento específico de la aplicación para complementar la clase Application predeterminada.
